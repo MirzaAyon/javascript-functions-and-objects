@@ -16,3 +16,20 @@ while (i < 10) {
 }
 //watch e giye i likhe enter marlam
 //5 er pore break hoye jabe debug e giye
+//loop er modhe break mere dile shroto shotti hoye gelei sheta theme jabe 
+
+for (var i = 0; i < 20; i++) {
+    console.log(i);
+    if (i == 8) {
+        break;
+    }
+}
+//i<=20 diyeo krbo
+for (var i = 0; i < 20; i++) {
+    console.log(i);
+    if (i > 8) {
+        break;
+    }
+}
+
+
