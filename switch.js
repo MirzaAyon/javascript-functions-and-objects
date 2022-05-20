@@ -55,5 +55,5 @@ switch (color) { //ager ta baad diye kehane ekta breakpoint dilam
         console.log('color is black');
 
 }
-//switch e bar bar check korena ekebare point e chole jae
+//switch e bar bar check korena ekebare point e chole jae breakpoint dekhlei bujha jae
 //but if/else e bar bar check kore
